@@ -56,6 +56,11 @@ body * {
     margin-top: 8px;
 }
 
+.profission {
+    font-size: .7rem;
+    font-weight: 400;
+}
+
 #switch {
     position: relative;
     width: 64px;
